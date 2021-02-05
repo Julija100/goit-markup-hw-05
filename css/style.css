@@ -503,7 +503,6 @@ button:focus {
   border: 1px solid #eeeeee;
   box-sizing: border-box;
   position: relative;
-  overflow: hidden;
 }
 .our-portfolio-list-link:hover,
 .our-portfolio-list-link:focus {
