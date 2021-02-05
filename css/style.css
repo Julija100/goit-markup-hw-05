@@ -514,6 +514,7 @@ button:focus {
   background: #ffffff;
   box-sizing: border-box;
   position: relative;
+  transition: translate 2500ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .our-portfolio-img {
